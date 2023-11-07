@@ -17,7 +17,7 @@ Follow the steps below to add more multiple-choice questions (MCQs) to the exist
    - Use the `git clone` command to clone the repository to your local machine:
      
      ```
-     git clone https://github.com/ashishalf/quizhunt.github.io.git
+    git clone https://github.com/ashishalf/quizhunt.github.io.git
      ```
 3. Add New MCQ Questions:
    - Open the JavaScript file corresponding to the quiz you want to add questions to. For example, if you want to add questions to the C++ quiz, open the "cppquiz.js" file.
