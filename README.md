@@ -1,5 +1,5 @@
 # QuizHunt
-QuizHunt is a quiz website that offers quizzes on programming languages such as C, C++, Java, Linux, and operating systems. The website is built using HTML, CSS, Bootstrap, and JavaScript.
+QuizHunt is a quiz website that offers quizzes on programming languages such as C, C++, Java, Linux, and operating systems. The website is built using HTML, CSS, Bootstrap, and JavaScripts.
 
 # Features
 1. Quizzes on programming languages and operating systems
