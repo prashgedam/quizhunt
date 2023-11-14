@@ -6,7 +6,7 @@ QuizHunt is a quiz website that offers quizzes on programming languages such as 
 2. Multiple choice questions with randomized options
 3. Score tracking and feedback for users
 4. Responsive design using Bootstrap
-5. Simple and intuitive user interface
+5. Simple and intuitive user interface..
 # Technologies Used
 1. HTML
 2. CSS
